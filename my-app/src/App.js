@@ -18,7 +18,7 @@ const App = () => {
                 <ul className="nav">
                     <li  className=' nav-link'>
                         <NavLink to={"/"}  className='text-decoration-none text-success'>
-                        <i class="fa fa-home" aria-hidden="true"></i>Home</NavLink>
+                        <i className="fa fa-home" aria-hidden="true"></i>Home</NavLink>
 
                     </li>
                     <li className=' nav-link' >
